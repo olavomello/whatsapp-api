@@ -1,0 +1,28 @@
+{
+  "name": "whatsapp-ai",
+  "version": "1.0.0",
+  "description": "Whatsapp OpenAI",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olavomello/whatsapp-api.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "openai"
+  ],
+  "author": "Olavo Mello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olavomello/whatsapp-api/issues"
+  },
+  "homepage": "https://github.com/olavomello/whatsapp-api#readme",
+  "dependencies": {
+    "axios": "^1.3.2",
+    "dotenv": "^16.0.3",
+    "venom-bot": "https://github.com/orkestral/venom/releases/download/nightly/venom-bot-nightly.tgz"
+  }
+}
